@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "544776270370",
+    "project_id": "store-data-realtime-4e7e4",
+    "storage_bucket": "store-data-realtime-4e7e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544776270370:android:b6998ea0e2f66c6adad07b",
+        "android_client_info": {
+          "package_name": "com.example.storageunit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544776270370-a549ob01q3rduggmmm59egl9o6tvtjth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSwJxNWuGEEz0NmKs6-qitQ_FFzogEPq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544776270370-a549ob01q3rduggmmm59egl9o6tvtjth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
